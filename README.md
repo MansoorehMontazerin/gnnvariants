@@ -71,7 +71,7 @@ The main script, `main.py`, is the entry point for your project. Execute it usin
 ```bash
 python main.py
 ```
-Ensure you have activated the Conda environment (as described [here](#setup-environment)), and set the config variables (as described [here](#configuration)) before running the script.
+Please make sure you have activated the Conda environment (as described [here](#setup-environment)), and set the config variables (as described [here](#configuration)) before running the script.
 
 ## Custom Models
 Define custom models in the `models.py` file. The model to be used in `main.py` should be implemented as `class ModelM`.
@@ -101,3 +101,6 @@ All experiments ran for our paper can be found in scripts here. Inside the basel
 - **base.py:** Trivial and Adjacency Based Classifiers
 - **embVar_GNNScripy.py:** EE-GCN Regression and Classification
 - **encVar_GNNScripy.py:** AE-GCN Regression and Classification
+
+
+For any questions, please email Srikar Mutnuri (nmp8rj@virginia.edu) or Mansooreh Montazerin (mmontaze@usc.edu).
