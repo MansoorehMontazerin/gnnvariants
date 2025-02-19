@@ -103,4 +103,4 @@ All experiments ran for our paper can be found in scripts here. Inside the basel
 - **encVar_GNNScripy.py:** AE-GCN Regression and Classification
 
 
-For any questions, please email Srikar Mutnuri (nmp8rj@virginia.edu) or Mansooreh Montazerin (mmontaze@usc.edu).
+★★★ For any questions, please email Srikar Mutnuri (nmp8rj@virginia.edu) or Mansooreh Montazerin (mmontaze@usc.edu).
